@@ -7,7 +7,7 @@ In homework two, we aimed to create environmental variables and aliases to allow
 To begin, I created a local directory "PUI2018" using the mkdir command: 
 ![Alt text](../HW1_tp1600/Screenshot_Mkdir.png)
 
-Next, I modified the bashrc file to include both the environmental variable and the alias: 
+Next, I modified the bash_profile file to include both the environmental variable and the alias: 
 ![Alt text](../HW1_tp1600/Screenshot_Bash.png)
 
 Lastly, I tested to ensure that my modifications worked as expected: 
