@@ -1,6 +1,6 @@
-HW1 for PUI 2018
+# HW1 README.md for PUI 2018
 
-Tiffany Patafio
+### Tiffany Patafio
 
 In homework two, we aimed to create environmental variables and aliases to allow for reproducible research across machines and environments. In particular, the goal was to create a single environmental variable ($PUIDATA) to refer to a new directory and alias (pui2018) to navigate to said directory.
 
