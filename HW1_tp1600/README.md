@@ -8,7 +8,7 @@ To begin, I created a local directory "PUI2018" using the mkdir command:
 ![Alt text](../HW1_tp1600/Screenshot_Mkdir.png)
 
 Next, I modified the bashrc file to include both the environmental variable and the alias: 
-![Alt text](../HW1_tp1600/Screenshot_bash.png)
+![Alt text](../HW1_tp1600/Screenshot_Bash.png)
 
 Lastly, I tested to ensure that my modifications worked as expected: 
-![Alt text](../HW1_tp1600/Screenshot_test.png)
+![Alt text](../HW1_tp1600/Screenshot_Test.png)
