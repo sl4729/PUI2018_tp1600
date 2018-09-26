@@ -12,11 +12,12 @@ For assignment 1, we needed to prove that a file was added:
 ![Alt Text](../HW3_tp1600/Screenshot1.png)
 ![Alt Text](../HW3_tp1600/Screenshot2.png)
 And subsequently deleted from our github repo:
-![Alt Text](../HW3_tp1600/HW3_3_terminal.PNG)
+![Alt Text](../HW3_tp1600/Screenshot3.png)
 (Note no activity is logged for the date the file existed.)
 
 For assignment 2, I used Citywide Payroll data to plot Salary vs Overtime hours, 
 noting that Overtime hours were highest amongs lower salary workers as shown in Figure 1 below:
+![Alt Text](../HW3_tp1600/Screenshot4.png)
 
 For assignments 3 & 4, I created .py files which can be run directly within the terminal to 
 retrieve and return data from the MTA API. The biggest hurdle is the format of the data as a JSON file, 
